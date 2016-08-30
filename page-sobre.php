@@ -2,33 +2,46 @@
 get_header(); ?>
 
 <div id="content">
-	<section id="sobre">
-		<h1 class="title-full small"><div class="animated bounceIn">Quem Somos</div></h1>
+	<section id="fotos-sobre">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12 text-left">
-					<p>A Terapeutas Tântricas é um espaço terapêutico que tem a Massagem Tântrica como a sua principal ferramenta para a busca da evolução espiritual.<br>
-					Com uma equipe cuidadosamente selecionada, nos destacamos pelo profissionalismo e pela alta qualidade no atendimento.<br>
-					Todas as terapeutas são habilitadas e treinadas nas mais diversas técnicas de Massagem Tântrica para tornar sua sessão mais agradável, natural e prazerosa.
-
-
-					</p><br>
-					<h2 class="amarelo">Ambiente</h2>
-					<ul>
-						<li>Localizada no centro de São Paulo</li>
-						<li>Terapeutas especialistas com vivência tântrica</li>
-						<li>Ambiente aconchegante e discreto</li>
-						<li>Próximo ao metrô Sé</li>
-					</ul><br>
-					<p>
-						A Massagem Tântrica é realizada em ambiente tranquilo, com temperatura agradável, luz natural, música suave, óleos vegetais, aromas suaves e agradáveis. <br>
-						O nosso convite é para que você venha buscar sua evolução espiritual através da Massagem Tântrica.<br><br>
-
-						Seja bem vindo(a)! 
+				<div class="col-md-7 text-left">
+					<h1 class="small">Tântrica SP</h2>
+					<p>Não somos uma clínica ou casa de massagem!<br>
+						Nós somos profissionais autônomas especializadas em Massagem Tântrica 
+sem nenhuma conotação sexual.<br>
+						Atendemos homens, mulheres e casais!
 					</p>
+					<ul>
+						<li>Massagem Tântrica</li>
+						<li>Massagem Relaxante</li>
+						<li>As melhores terapeutas tântricas de São Paulo</li>
+						<li>Massagem personalizada e especial para cada cliente</li>
+					</ul>
+					<a href="<?php echo esc_url( home_url( '/' ) )."fotos"; ?>" class="btn-saiba-mais">CONTATO</a>
+				</div>
+				<div class="col-md-5 text-left">
+					
+					<div class="row">
+						<div class="col-md-6">
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
+						</div>
+						<div class="col-md-6">
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
+						</div>
+					</div>
+					<div class="fotos-sobre row">	
+						<div class="col-md-6">
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
+						</div>
+						<div class="col-md-6">
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
+						</div>
+					</div>
+			
 				</div>
 			</div>	
-		</div>
+		</div>	
 	</section>
 
 	<section id="maps">

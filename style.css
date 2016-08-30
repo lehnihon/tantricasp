@@ -1,5 +1,5 @@
 /*
-Theme Name: teraptantricas
+Theme Name: tantricassp
 Theme URI: http://underscores.me/
 Author: Underscores.me
 Author URI: http://underscores.me/
@@ -40,7 +40,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: 26px;
     font-weight: bold;
-    color: #b70456; }
+    color: #8f0351; }
   #page h2 {
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     margin: 0;
@@ -90,7 +90,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
-    background-color: #b70456;
+    background-color: #8f0351;
     padding: 10px 45px;
     color: white;
     display: inline-block; }
@@ -222,7 +222,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
           #page #header div.header-logo nav ul.menu-principal li a:hover {
             text-decoration: none; }
         #page #header div.header-logo nav ul.menu-principal li:hover {
-          background-color: #f2f1df; }
+          border-bottom: 2px solid #fe3191; }
   @media (max-width: 991px) {
     #page div.redes {
       text-align: left !important;
@@ -295,7 +295,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
       border: 5px solid #e8edf1;
       margin: 5px; }
   #page div#content section#maps {
-    background-color: #b70456;
+    background-color: #8f0351;
     color: white; }
     #page div#content section#maps .detalhes-maps {
       padding: 25px 0; }
@@ -367,6 +367,8 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
   #page div#content section#redes-bot {
     padding: 80px 0;
     background-color: white; }
+    #page div#content section#redes-bot h2 {
+      color: #8f0351; }
     #page div#content section#redes-bot .redes_sociais_bot {
       margin-bottom: 5px;
       height: 67px;
@@ -423,7 +425,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
     text-align: left; }
     #page #footer div.footer-content {
       padding: 50px 0;
-      background-color: #b70456;
+      background-color: #8f0351;
       color: white; }
       #page #footer div.footer-content ul {
         padding: 0;

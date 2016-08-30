@@ -2,8 +2,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h2>Terapeutas Massagem Tântrica nas redes sociais</h2>
-				<h4>Acompanhe as Terapeutas Massagem Tântrica nas redes sociais e confira todas as nossas novidades.</h4>
+				<h2>Tântrica SP nas redes sociais</h2>
+				<h4>Acompanhe a Tântrica SP nas redes sociais e confira todas as nossas novidades.</h4>
 			</div>
 		</div><!-- .row -->
 		<div class="row">

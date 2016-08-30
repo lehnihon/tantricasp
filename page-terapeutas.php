@@ -4,6 +4,7 @@ get_header(); ?>
 <div id="content">
 	<div class="container">
 		<h1 class="small">Terapeutas</h1>
+		<h4>Confira quem são as melhore terapeutas de Massagem Tântrica de São Paulo.</h4>
 		<?php 
 		$paged = ( get_query_var( 'paged' ) ) ? absint( get_query_var( 'paged' ) ) : 1;
 

@@ -10,6 +10,43 @@ get_header(); ?>
 		</div>
 	</section>
 
+	<section id="sobre-home">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1 class="small">Massagem Tântrica em São Paulo</h1>
+					<h2>Venha fazer uma Massagem Tântrica com as melhores terapeutas de São Paulo</h2>
+				</div>
+			</div> <br>
+			<div class="row">
+				<div class="col-md-6 text-left">
+					<p>
+						A Massagem Tântrica traz vários benefícios para o organismo, combate o stresse,  
+auxilia no tratamento de dores musculares e traz um relaxamento profundo, além 
+de aumentar a disposição e o vigor físico.
+					</p>
+					<p>
+						Nossas terapeutas tântricas aplicam tanto técnicas milenares da Massagem 
+Tântrica como cada uma desenvolveu uma técnica de massagem personalizada e 
+especial para cada cliente.
+					</p>
+				</div>
+				<div class="col-md-6 text-left">
+					<p>
+						Todas as nossas terapeutas tântricas são habilitadas e treinadas nas mais 
+diversas técnicas orientais e ocidentais da Massagem Tântrica, tudo isso para 
+tornar sua sessão de massagem mais agradável e prazerosa.
+					</p>
+					<p>
+						A Massgem Tântrica é uma técnica ao mesmo tempo sensual e muito prazerosa. 
+Buscamos despertar para o prazer através do toque em harmonia com os cinco 
+sentidos, tato, olfato, paladar, audição, visão e ainda despertar outros sentidos.
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
 	<section id="servicos">
 		<div class="container">
 			<?php
@@ -53,38 +90,36 @@ get_header(); ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7 text-left">
-					<h2 class="amarelo">Terapeutas Tântricas</h2>
-					<p class="">A Terapeutas Tântricas é um espaço terapêutico que tem a Massagem Tântrica como 
-						a sua principal ferramenta para a busca da evolução espiritual.<br>
-						Com uma equipe cuidadosamente selecionada, nos destacamos pelo profissionalismo 
-						e pela alta qualidade no atendimento.<br>
-						Seja bem vindo(a)! 
+					<h2 class="amarelo">Massagem Tântrica em São Paulo</h2>
+					<p class="">Não somos uma clínica ou casa de massagem!<br>
+						Nós somos profissionais autônomas especializadas em Massagem Tântrica 
+sem nenhuma conotação sexual.<br>
+						Atendemos homens, mulheres e casais!
 					</p>
 					<ul>
-						<li>Localizada no centro de São Paulo</li>
-						<li>Terapeutas especialistas com vivência tântrica</li>
-						<li>Ambiente aconchegante e discreto</li>
-						<li>Próximo ao metrô Sé</li>
+						<li>Massagem Tântrica</li>
+						<li>Massagem Relaxante</li>
+						<li>As melhores terapeutas tântricas de São Paulo</li>
+						<li>Massagem personalizada e especial para cada cliente</li>
 					</ul>
-					<a href="<?php echo esc_url( home_url( '/' ) )."fotos"; ?>" class="btn-amarelo">CONFIRA</a>
+					<a href="<?php echo esc_url( home_url( '/' ) )."fotos"; ?>" class="btn-amarelo">CONTATO</a>
 				</div>
 				<div class="col-md-5 text-left">
-					<h4>Fotos</h4>
 					
 					<div class="row">
 						<div class="col-md-6">
-							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner1.jpg"; ?>"/>
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
 						</div>
 						<div class="col-md-6">
-							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner1.jpg"; ?>"/>
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
 						</div>
 					</div>
 					<div class="fotos-sobre row">	
 						<div class="col-md-6">
-							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner1.jpg"; ?>"/>
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
 						</div>
 						<div class="col-md-6">
-							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner1.jpg"; ?>"/>
+							<img class="e-claro img-responsive" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/banner-3.jpg"; ?>"/>
 						</div>
 					</div>
 			
