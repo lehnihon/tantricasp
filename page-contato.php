@@ -4,6 +4,7 @@ get_header(); ?>
 <div id="content">
 	<section id="contato">
 		<h1 class="title-full small"><div class="animated bounceIn">Contato</div></h1>
+		<h4>Entre em contato com as melhore terapeutas de Massagem Tântrica de São Paulo</h4>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 text-left">

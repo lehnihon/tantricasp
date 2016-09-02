@@ -362,8 +362,9 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
     padding-bottom: 80px; }
     #page div#content section#contato div.quadro {
       padding: 25px 50px;
-      background-color: #f3f2e9;
-      margin-top: 10px; }
+      background-color: #8f0351;
+      margin-top: 10px;
+      color: white; }
   #page div#content section#redes-bot {
     padding: 80px 0;
     background-color: white; }

@@ -102,7 +102,7 @@ sem nenhuma conotação sexual.<br>
 						<li>As melhores terapeutas tântricas de São Paulo</li>
 						<li>Massagem personalizada e especial para cada cliente</li>
 					</ul>
-					<a href="<?php echo esc_url( home_url( '/' ) )."fotos"; ?>" class="btn-amarelo">CONTATO</a>
+					<a href="<?php echo esc_url( home_url( '/' ) )."fotos"; ?>" class="btn-saiba-mais">CONTATO</a>
 				</div>
 				<div class="col-md-5 text-left">
 					
